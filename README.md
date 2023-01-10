@@ -1,6 +1,6 @@
 # 2022-summer-internship
  
-<img src="https://user-images.githubusercontent.com/40378824/177061694-fbe7abfa-4dd6-41ea-9a3c-578c7f274be5.png" alt="drawing" width="80%"/>
+<img src="./slides/title.png" alt="drawing" width="80%"/>
 
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
 - [Official Laboratory Homepage (Website)](http://dsail.kaist.ac.kr/)
@@ -32,7 +32,7 @@
 | 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 장산하 |  |
 | 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 양태준 |  |
 | 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | 양태준 |  |
-| 2017 | [Neural Collaborative Filtering](https://arxiv.org/abs/2112.02472)| AFGRL | 이정우 |  |
+| 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL | 이정우 |  |
 
 
 
