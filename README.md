@@ -1,4 +1,4 @@
-# 2022-summer-internship
+# 2022-winter-internship
  
 <img src="./slides/title.png" alt="drawing" width="80%"/>
 
@@ -35,19 +35,10 @@
 | 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL | 이정우 |  |
 
 
-
-
-
-
- 
-
-
-
-
-
 ### Participate to projects
 - On-going projects
   - Universal User Representation 학습
   - 화학 물질간의 상호작용을 통한 물성 예측
   - 시각 메모리 기억을 위한 시각 지식 그래프 생성
+  - Single-cell RNA sequencing
 - 담당 대학원생과 함께 진행
