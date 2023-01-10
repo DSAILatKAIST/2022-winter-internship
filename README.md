@@ -42,3 +42,32 @@
   - 시각 메모리 기억을 위한 시각 지식 그래프 생성
   - Single-cell RNA sequencing
 - 담당 대학원생과 함께 진행
+
+
+## Team Introduction (Lab Interns)  
+### 김이삭
+* [Yisak Repository (N/A)](https://github.com/)
+
+### 임서현
+* [Seohyun Repository](https://github.com/)  
+
+### 지인선  
+* [Inseon Repository](https://github.com/)  
+
+### 안중찬
+* [Joongchan Repository](https://github.com/)  
+
+### 오지환
+* [Jihwan Repository (N/A)](https://github.com/)  
+
+### 장산하  
+* [Sanha Repository](https://github.com/)  
+
+### 배지환  
+* [Jihwan Repository](https://github.com/)    
+
+### 양태준  
+* [Taejun Repository](https://github.com/)  
+
+### 이정우  
+* [Jungwoo Repository](https://github.com/)  
