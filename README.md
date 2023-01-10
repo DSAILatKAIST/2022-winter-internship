@@ -11,7 +11,7 @@
 ### Basic recommender system and Graph Neural Network
 | Year | Paper | Short | Presenter | slides |
 | :---: | --- | --- | --- | --- |
-| 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)| GCN | 김이삭 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/GCN.pdf) |
+| 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)| GCN | 김이삭 | [Slide](./slides/GCN.pdf) |
 | 2014 | [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)| Deepwalk | 임서현 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/Deepwalk.pdf) |
 | 2008 | [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)| PMF | 지인선 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/PMF.pdf) | 
 | 2009 | [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)| Netflix | 안중찬 | [Slide](https://github.com/DSAILatKAIST/2022-summer-internship/blob/main/slides/Netflix.pdf) |
