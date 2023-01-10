@@ -49,25 +49,25 @@
 * [Yisak Repository (N/A)](https://github.com/)
 
 ### 임서현
-* [Seohyun Repository](https://github.com/)  
+* [Seohyun Repository (N/A)](https://github.com/)  
 
 ### 지인선  
-* [Inseon Repository](https://github.com/)  
+* [Inseon Repository (N/A)](https://github.com/)  
 
 ### 안중찬
-* [Joongchan Repository](https://github.com/)  
+* [Joongchan Repository (N/A)](https://github.com/)  
 
 ### 오지환
 * [Jihwan Repository (N/A)](https://github.com/)  
 
 ### 장산하  
-* [Sanha Repository](https://github.com/)  
+* [Sanha Repository (N/A)](https://github.com/)  
 
 ### 배지환  
-* [Jihwan Repository](https://github.com/)    
+* [Jihwan Repository (N/A)](https://github.com/)    
 
 ### 양태준  
-* [Taejun Repository](https://github.com/)  
+* [Taejun Repository (N/A)](https://github.com/)  
 
 ### 이정우  
-* [Jungwoo Repository](https://github.com/)  
+* [Jungwoo Repository (N/A)](https://github.com/)  
