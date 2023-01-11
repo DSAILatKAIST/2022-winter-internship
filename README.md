@@ -49,7 +49,7 @@
 * [Yisak Repository (N/A)](https://github.com/)
 
 ### 임서현
-* [Seohyun Repository (N/A)](https://github.com/)  
+* [Seohyun Repository](https://github.com/seohl16/GNN_RECSYS_paper)
 
 ### 지인선  
 * [Inseon Repository](https://github.com/inseonji/2023-dsail-internship)
