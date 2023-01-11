@@ -52,7 +52,7 @@
 * [Seohyun Repository (N/A)](https://github.com/)  
 
 ### 지인선  
-* [Inseon Repository (N/A)](https://github.com/)  
+* [Inseon Repository](https://github.com/inseonji/2023-dsail-internship)
 
 ### 안중찬
 * [Joongchan Repository (N/A)](https://github.com/)  
