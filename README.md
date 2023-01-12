@@ -61,7 +61,7 @@
 * [Jihwan Repository (N/A)](https://github.com/)  
 
 ### 장산하  
-* [Sanha Repository (N/A)](https://github.com/)  
+* [Sanha Repository](https://github.com/sanhachang/2022_winter_internship.git)  
 
 ### 배지환  
 * [Jihwan Repository (N/A)](https://github.com/)    
