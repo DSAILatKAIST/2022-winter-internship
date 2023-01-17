@@ -18,9 +18,9 @@
 | 2008 | [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://dl.acm.org/doi/10.1145/1401890.1401944) | Netflix | 안중찬 | [Slide](./slides/Netflix.pdf) |
 | 2008 | [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf)| OCCF | 오지환 | [Slide](./slides/OCCF.pdf) |
 | 2012 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)| BPR | 장산하 | [Slide](./slides/BPR.pdf) |
-| 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)| TransE | 배지환 |  |
-| 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 양태준 |  |
-| 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM | 이정우 |  |
+| 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)| TransE | 배지환 | [Slide](./slides/TransE.pdf) |
+| 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 양태준 | [Slide](./slides/CML.pdf) |
+| 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM | 이정우 | [Slide](./slides/FM.pdf)|
 | 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD | 김이삭 |  |
 | 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | 임서현 |  |
 | 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 임서현 |  |
@@ -55,7 +55,7 @@
 * [Inseon Repository](https://github.com/inseonji/2023-dsail-internship)
 
 ### 안중찬
-* [Joongchan Repository (N/A)](https://github.com/)  
+* [Joongchan Repository](https://github.com/jcahn99/KAIST_WINTER2022)  
 
 ### 오지환
 * [Jihwan Repository (N/A)](https://github.com/)  
@@ -64,7 +64,7 @@
 * [Sanha Repository](https://github.com/sanhachang/2022_winter_internship.git)  
 
 ### 배지환  
-* [Jihwan Repository (N/A)](https://github.com/)    
+* [Jihwan Repository](https://github.com/BeigeHwan/KAIST_2022_Winter_Intern)    
 
 ### 양태준  
 * [Taejun Repository (N/A)](https://github.com/)  
