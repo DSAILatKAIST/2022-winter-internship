@@ -58,7 +58,7 @@
 * [Joongchan Repository](https://github.com/jcahn99/KAIST_WINTER2022)  
 
 ### 오지환
-* [Jihwan Repository (N/A)](https://github.com/)  
+* [Jihwan Repository](https://github.com/jihwan2222/KAIST-DSAIL-2022-winter)  
 
 ### 장산하  
 * [Sanha Repository](https://github.com/sanhachang/2022_winter_internship.git)  
