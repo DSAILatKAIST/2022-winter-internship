@@ -21,10 +21,10 @@
 | 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)| TransE | 배지환 | [Slide](./slides/TransE.pdf) |
 | 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 양태준 | [Slide](./slides/CML.pdf) |
 | 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM | 이정우 | [Slide](./slides/FM.pdf)|
-| 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD | 김이삭 |  |
-| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | 임서현 |  |
-| 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 임서현 |  |
-| 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec | 지인선 |  | 
+| 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD | 김이삭 | [Slide](./slides/WD.pdf) |
+| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | 임서현 | [Slide](./slides/SoRec.pdf) |
+| 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 임서현 | [Slide](./slides/SoRec.pdf) |
+| 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec | 지인선 | [Slide](./slides/Metapath2Vec.pdf) | 
 | 2018 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| DGI | 안중찬 |  |
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE | 오지환 |  | 
 | 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE | 배지환 |  |
