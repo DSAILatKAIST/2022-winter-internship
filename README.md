@@ -29,10 +29,10 @@
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE | 오지환 | [Slide](./slides/GraphSAGE.pdf) | 
 | 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE | 배지환 | [Slide](./slides/VAE_VGAE.pdf) |
 | 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)| VGAE | 배지환 | [Slide](./slides/VAE_VGAE.pdf) |
-| 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 장산하 |  |
-| 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 양태준 |  |
-| 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | 양태준 |  |
-| 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL | 이정우 |  |
+| 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 장산하 | [Slide](./slides/Youtube.pdf) |
+| 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 양태준 | [Slide](./slides/ConvMF_Autorec.pdf) |
+| 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | 양태준 | [Slide](./slides/ConvMF_Autorec.pdf) |
+| 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL | 이정우 | [Slide](./slides/AFGRL.pdf) |
 
 
 ### Participate to projects
